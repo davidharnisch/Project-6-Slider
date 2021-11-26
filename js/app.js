@@ -12,7 +12,7 @@
   let btnLeft = document.querySelector(".btn-left")
   let btnRight = document.querySelector(".btn-right")
   let bgImage = document.querySelector(".img-container")
-let x = 0
+  let x = 0
   
 
 
